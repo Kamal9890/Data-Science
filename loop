@@ -1,0 +1,82 @@
+# expenses = [1200,1500,1300,1700]
+
+# total = 0
+
+# for expense in expenses :
+    
+#     total = total +    expense
+      
+#     print(total)
+      
+
+# for i in range(10):
+#     print(i)
+
+
+# for i in range(5,10) :
+#     print(i)
+
+
+
+
+
+
+
+
+
+# 3 program
+
+# expenses = [1200,1500,1300,1700]
+
+# total = 0 
+
+# for i in range(len(expenses)):
+#     expense =  expenses[i]
+    
+#     print(f" Month{i+1} , expense: {expense}")
+#     total +=expense
+    
+#     print("Total expenses : ", total)
+    
+
+
+
+# 4th program BREAK 
+
+# key_locaations =  "chair"
+
+# locations = ["sofa" , "garage", "chair", "table", "closet"]
+
+# for loc in locations:
+#     if loc == key_locaations:
+#         print("Key found at: ", loc)
+#         break
+    
+#     else:
+#         print("Key not found at : ", loc)
+        
+# print("end")
+
+
+
+# 5 continue program
+
+# for i in range(11):
+    
+#     if i%2== 0:
+#      continue
+#         print(i)
+
+
+
+
+# While loop
+
+
+
+
+n =0
+
+while n <=100:
+    print(n)
+    n= n+1
